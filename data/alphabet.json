@@ -1,0 +1,26 @@
+{
+  "level": "A0",
+  "title": "Greek Alphabet Foundation",
+  "lessons": [
+    {
+      "letter": "Α α",
+      "sound": "a",
+      "example": "άλογο"
+    },
+    {
+      "letter": "Β β",
+      "sound": "v",
+      "example": "βιβλίο"
+    },
+    {
+      "letter": "Γ γ",
+      "sound": "g",
+      "example": "γάλα"
+    },
+    {
+      "letter": "Δ δ",
+      "sound": "th",
+      "example": "δέντρο"
+    }
+  ]
+}
